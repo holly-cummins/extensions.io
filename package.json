@@ -13,7 +13,7 @@
     "@fortawesome/free-solid-svg-icons": "^6.7.2",
     "@fortawesome/react-fontawesome": "^0.2.2",
     "axios": "^1.7.9",
-    "cacache": "^18.0.4",
+    "cacache": "^19.0.1",
     "compare-version": "^0.1.2",
     "csvtojson": "^2.0.10",
     "date-fns": "^3.6.0",
